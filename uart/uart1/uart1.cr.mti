@@ -1,0 +1,11 @@
+C:/Users/LDP20/Desktop/Practice/uart1/uart1.v {1 {vlog -work work -vopt -stats=none {C:\Users\LDP20\Desktop\Practice\uart1\uart1.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module uart_top
+-- Compiling module uart_rx
+-- Compiling module uart_tx
+-- Compiling module clk_div
+
+Top level modules:
+	uart_top
+
+} {} {}}
